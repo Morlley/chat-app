@@ -110,7 +110,7 @@
   margin-top: 10px;
 }
 
-.chat_form {
+.form {
   background-color: #ddd;
   height: 90px;
   padding: 20px 40px;
@@ -125,7 +125,7 @@
   background-color: white;
 }
 
-.message-form {
+.form-message {
   height: 50px;
   width: 100%;
   border: none;
